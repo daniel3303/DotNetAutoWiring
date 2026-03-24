@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Equibles.Core.AutoWiring/Equibles.Core.AutoWiring.csproj" />
+  <Project Path="Equibles.Core.AutoWiring.Tests/Equibles.Core.AutoWiring.Tests.csproj" />
+</Solution>
