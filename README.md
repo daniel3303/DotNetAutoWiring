@@ -1,6 +1,6 @@
 # Equibles.Core.AutoWiring
 
-[![NuGet Version](https://img.shields.io/nuget/v/Equibles.Core.AutoWiring.svg)](https://www.nuget.org/packages/Equibles.Core.AutoWiring)
+[![NuGet](https://img.shields.io/nuget/v/Equibles.Core.AutoWiring.svg)](https://www.nuget.org/packages/Equibles.Core.AutoWiring)
 [![CI](https://github.com/daniel3303/DotNetAutoWiring/actions/workflows/ci.yml/badge.svg)](https://github.com/daniel3303/DotNetAutoWiring/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/daniel3303/DotNetAutoWiring/graph/badge.svg)](https://codecov.io/gh/daniel3303/DotNetAutoWiring)
 
@@ -76,8 +76,12 @@ builder.Services.AutoWireServicesFrom<AnotherAssemblyMarker>();
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+[MIT](LICENSE)
 
 ## Author
 
-[Daniel Oliveira](https://github.com/daniel3303) / [Equibles](https://equibles.com)
+Daniel Oliveira
+
+[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://danielapoliveira.com/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/daniel_not_nerd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ap-oliveira/)
